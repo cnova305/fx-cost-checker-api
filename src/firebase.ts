@@ -17,3 +17,5 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://ebury-fx-widget.firebaseio.com",
 });
+
+export const adminFirestore = admin.firestore();
