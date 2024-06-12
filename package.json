@@ -1,0 +1,23 @@
+{
+  "name": "fx-widget-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnova305/fx-cost-checker-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnova305/fx-cost-checker-api/issues"
+  },
+  "homepage": "https://github.com/cnova305/fx-cost-checker-api#readme",
+  "devDependencies": {
+    "firebase-tools": "^13.11.2"
+  }
+}
